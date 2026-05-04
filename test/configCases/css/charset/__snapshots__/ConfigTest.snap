@@ -154,11 +154,14 @@ exports[`ConfigTestCases css charset exported tests should handle \`@charset\` a
 "@charset \\"UTF-8\\";
 .import-nested {
 	color: red;
-}.import-nested {
+}
+.import-nested {
 	color: red;
-}.import {
+}
+.import {
 	color: red;
-}/*!************************************************************************!*\\\\
+}
+/*!************************************************************************!*\\\\
   !*** css ./styles-5.css-style-sheet.css (exportType: css-style-sheet) ***!
   \\\\************************************************************************/
 
