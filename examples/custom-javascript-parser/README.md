@@ -482,8 +482,8 @@ Implementation example:
 ## Unoptimized
 
 ```
-asset output.js 12 KiB [compared for emit] (name: main)
-asset 655.output.js 761 bytes [compared for emit]
+asset output.js 12 KiB [emitted] (name: main)
+asset 655.output.js 761 bytes [emitted]
 chunk (runtime: main) 655.output.js 24 bytes [rendered]
   > ./async-loaded ./example.js 6-6
   ./async-loaded.js 24 bytes [built] [code generated]
