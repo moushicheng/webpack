@@ -260,7 +260,7 @@ Implementation example:
 ## Unoptimized
 
 ```
-asset output.js 12.4 KiB [emitted] (name: main)
+asset output.js 12.2 KiB [emitted] (name: main)
 asset 655.output.js 761 bytes [emitted]
 chunk (runtime: main) 655.output.js 24 bytes [rendered]
   > ./async-loaded ./example.js 6:0-24
@@ -278,7 +278,7 @@ chunk (runtime: main) output.js (main) 457 bytes (javascript) 5.93 KiB (runtime)
     entry ./example.js main
 webpack X.X.X compiled successfully
 
-asset output.js 12.4 KiB [emitted] (name: main)
+asset output.js 12.2 KiB [emitted] (name: main)
 asset 655.output.js 761 bytes [emitted]
 chunk (runtime: main) 655.output.js 24 bytes [rendered]
   > ./async-loaded ./example.js 6:0-24
@@ -296,7 +296,7 @@ chunk (runtime: main) output.js (main) 457 bytes (javascript) 5.93 KiB (runtime)
     entry ./example.js main
 webpack X.X.X compiled successfully
 
-asset output.js 12.4 KiB [emitted] (name: main)
+asset output.js 12.2 KiB [emitted] (name: main)
 asset 655.output.js 761 bytes [emitted]
 chunk (runtime: main) 655.output.js 24 bytes [rendered]
   > ./async-loaded ./example.js 6:0-24
